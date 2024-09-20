@@ -1,0 +1,17 @@
+//Code 1
+fun main() {
+    println("New chat message from a friend'}
+}
+
+//output  
+//Syntax error: Expecting '"'.
+//Syntax error: Expecting ')'.
+//Syntax error: Incorrect template entry: .
+
+// Code 2 setelah di perbaiki
+fun main() {
+    println("New chat message from a friend")
+}
+
+// Output
+// New chat message from a friend
