@@ -1,0 +1,34 @@
+# Code 1
+// fun main() {
+//     val discountPercentage: Int = 0
+//     val offer: String = ""
+//     val item = "Google Chromecast"
+//     discountPercentage = 20
+//     offer = "Sale - Up to $discountPercentage% discount on $item! Hurry up!"
+
+//     println(offer)
+// }
+
+// Output 
+// 'val' cannot be reassigned.
+// 'val' cannot be reassigned.
+//  Keterangan : Variabel yang di deklarasikan dengan val tidak bisa diubah setelah diinisalisasi, sehingga jika mencoba mengubah discountPercentage dan offer akan muncul kesalahan.
+
+
+// Code 2
+
+// fun main() {
+//     var discountPercentage: Int = 0 // Ubah 'val' menjadi 'var' agar nilainya bisa diubah
+//     var offer: String = "" // Ubah 'val' menjadi 'var'
+//     val item = "Google Chromecast"
+    
+//     discountPercentage = 20
+//     offer = "Sale - Up to $discountPercentage% discount on $item! Hurry up!"
+
+//     println(offer)
+// }
+
+// Output
+
+// Sale - Up to 20% discount on Google Chromecast! Hurry up!
+// Keterangan : Dengan menggunakan var, dapat mengubah nilai discountpercentage dan offer.
