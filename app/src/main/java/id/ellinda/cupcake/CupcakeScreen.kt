@@ -105,6 +105,8 @@ fun CupcakeApp(
         backStackEntry?.destination?.route ?: CupcakeScreen.Start.name
     )
 
+    // konten (menggunakan topBar dan navHost)
+    
     Scaffold(
         topBar = {
             CupcakeAppBar(
@@ -118,12 +120,13 @@ fun CupcakeApp(
 
         NavHost(
             navController = navController,
-            startDestination = CupcakeScreen.Start.name,
+            startDestination = CupcakeScreen.Start.name, // destinasi pertama kali pada saat di jalankan
             modifier = Modifier
                 .fillMaxSize()
                 .verticalScroll(rememberScrollState())
                 .padding(innerPadding)
         ) {
+            // terdapat 4 rute navigasi
             composable(route = CupcakeScreen.Start.name) {
                 StartOrderScreen(
                     quantityOptions = DataSource.quantityOptions,
