@@ -32,4 +32,4 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-# Mengambil compossable dari kelas CupcakeScreen
+// Mengambil compossable dari kelas CupcakeScreen
