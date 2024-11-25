@@ -52,6 +52,7 @@ fun StartOrderScreen(
     onNextButtonClicked: (Int) -> Unit,
     modifier: Modifier = Modifier
 ) {
+    // layout -> column, spacer (image, text)
     Column(
         modifier = modifier,
         verticalArrangement = Arrangement.SpaceBetween
