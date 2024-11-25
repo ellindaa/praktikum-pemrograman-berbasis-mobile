@@ -56,6 +56,7 @@ import id.ellinda.cupcake.ui.StartOrderScreen
 /**
  * enum values that represent the screens in the app
  */
+// enum  -> kontennya telah di definisikan
 enum class CupcakeScreen(@StringRes val title: Int) {
     Start(title = R.string.app_name),
     Flavor(title = R.string.choose_flavor),
