@@ -1,22 +1,27 @@
-# LAPORAN PROYEK PENGEMBANGAN APLIKASI WEB
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; min-height: 100vh; font-family: Arial, sans-serif;">
 
-## SISTEM PENDATAAN SISWA SDN PAMANUKAN SEBRANG 1
+<h1>LAPORAN PROYEK PENGEMBANGAN APLIKASI WEB</h1>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-   <img src="https://github.com/user-attachments/assets/caeede39-4853-46c8-80a8-f0a0d01aaa1c" alt="UTDI" style="width: 30%;" )
+<h2>SISTEM PENDATAAN SISWA SDN PAMANUKAN SEBRANG 1</h2>
+
+<div style="display: flex; justify-content: center; margin: 20px;">
+   <img src="https://github.com/user-attachments/assets/caeede39-4853-46c8-80a8-f0a0d01aaa1c" alt="UTDI" style="width: 30%;">
 </div>
 
-### Penyusun:
-- **225410038** - STEVANI BURING  
-- **225410025** - FEBI MAHARANI  
-- **225410018** - ELLINDA  
+<h3>Penyusun:</h3>
+<ul style="list-style: none; padding: 0;">
+    <li><strong>225410038</strong> - STEVANI BURING</li>
+    <li><strong>225410025</strong> - FEBI MAHARANI</li>
+    <li><strong>225410018</strong> - ELLINDA</li>
+</ul>
 
-### PROGRAM STUDI INFORMATIKA  
-FAKULTAS TEKNOLOGI INFORMASI  
-UNIVERSITAS TEKNOLOGI DIGITAL INDONESIA  
-2024  
+<h3>PROGRAM STUDI INFORMATIKA</h3>
+<p>FAKULTAS TEKNOLOGI INFORMASI</p>
+<p>UNIVERSITAS TEKNOLOGI DIGITAL INDONESIA</p>
+<p>2024</p>
 
----
+</div>
+
 
 ## 1. Pendahuluan
 
