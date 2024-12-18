@@ -133,6 +133,7 @@ Sistem ini dikembangkan menggunakan **CodeIgniter** yang:
 ### b. View
 
 ### c. Controller
+https://github.com/ellindaa/praktikum-pemrograman-berbasis-mobile/blob/main/Percobaan/controller
 
 ---
 
