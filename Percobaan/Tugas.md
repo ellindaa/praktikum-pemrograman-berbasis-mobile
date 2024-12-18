@@ -132,6 +132,7 @@ Sistem ini dikembangkan menggunakan **CodeIgniter** yang:
 https://github.com/ellindaa/praktikum-pemrograman-berbasis-mobile/blob/main/Percobaan/model
 
 ### b. View
+https://github.com/ellindaa/praktikum-pemrograman-berbasis-mobile/blob/main/Percobaan/view
 
 ### c. Controller
 https://github.com/ellindaa/praktikum-pemrograman-berbasis-mobile/blob/main/Percobaan/controller
