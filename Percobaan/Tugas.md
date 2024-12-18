@@ -2,7 +2,9 @@
 
 ## SISTEM PENDATAAN SISWA SDN PAMANUKAN SEBRANG 1
 
-![image](https://github.com/user-attachments/assets/caeede39-4853-46c8-80a8-f0a0d01aaa1c)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+   <img src="https://github.com/user-attachments/assets/caeede39-4853-46c8-80a8-f0a0d01aaa1c" alt="UTDI" style="width: 30%;" )
+</div>
 
 ### Penyusun:
 - **225410038** - STEVANI BURING  
@@ -92,17 +94,30 @@ Struktur tabel dirancang untuk mengelola data siswa, guru, rombel, dan pengguna:
 - Gjekel: Varchar
 - Status: Varchar
 
-![Database Diagram](https://github.com/user-attachments/assets/3f47607c-1db1-49f6-b614-01ab8b0ab7e2)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src ="https://github.com/user-attachments/assets/3f47607c-1db1-49f6-b614-01ab8b0ab7e2"  alt="UTDI" style="width: 50%;" )
+</div>
 
 #### 2) Data Flow Diagram (DFD) Level 0
-![DFD Level 0](https://github.com/user-attachments/assets/37cdee81-892d-4c8b-a49c-7907ff04cfcf)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src ="https://github.com/user-attachments/assets/37cdee81-892d-4c8b-a49c-7907ff04cfcf" alt="DFD" style="width: 50%;" )
+</div>
+
 
 ### b. Realisasi
 #### 1. Diagram Relasi Antar Tabel dan Struktur Tabel
-![Diagram Relasi](https://github.com/user-attachments/assets/09f7163c-f445-4451-9710-349fe1d6eee2)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src ="https://github.com/user-attachments/assets/09f7163c-f445-4451-9710-349fe1d6eee2" alt="DFD" style="width: 50%;" )
+</div>
+
 
 #### 2. Data Flow Diagram (DFD) Level 1
-![DFD Level 1](https://github.com/user-attachments/assets/6dcb1850-f58a-4d1b-afa3-e2aa47c3445c)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src ="https://github.com/user-attachments/assets/6dcb1850-f58a-4d1b-afa3-e2aa47c3445c" alt="DFD" style="width: 50%;" )
+</div>
+
+
 
 ### 3. Teknologi
 Sistem ini dikembangkan menggunakan **CodeIgniter** yang:
@@ -114,7 +129,6 @@ Sistem ini dikembangkan menggunakan **CodeIgniter** yang:
 ## 3. Implementasi
 
 ### a. Model
-![Model Implementation](https://github.com/user-attachments/assets/d0276814-cc85-4b8d-a7db-9427f82abb0a)
 
 ### b. View
 
@@ -126,8 +140,19 @@ Sistem ini dikembangkan menggunakan **CodeIgniter** yang:
 
 ### 1) Tampilan untuk Guest/Tamu
 - **Home**
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src ="https://github.com/user-attachments/assets/f6f55bb9-c52e-43b5-b019-6672740c3065" alt="DFD" style="width: 50%;" )
+   </div>
+
 - **Profile**
+   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+       <img src ="https://github.com/user-attachments/assets/36a80f61-1d31-4bbe-9f4d-5c3765726f4e" alt="Profile" style="width: 50%;" )
+   </div>
+   
 - **Login**
+   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+         <img src ="https://github.com/user-attachments/assets/cbacc7c8-725a-4149-962c-c857a222ac71" alt="Login" style="width: 50%;" )
+   </div>
 
 ### 2) Tampilan untuk Admin
 #### **Siswa**: Tampil, Tambah, Edit, Hapus.
@@ -148,9 +173,10 @@ Sistem ini dikembangkan menggunakan **CodeIgniter** yang:
 
 #### **Rombel**: Tampil, Edit, Hapus.
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/8d6b488c-f6a7-4c98-9cc5-971407728e57" alt="Rombel Tampil" style="width: 32%;">
-  <img src="https://github.com/user-attachments/assets/957db759-7a15-465b-9d35-be6c0e3939ad" alt="Rombel Edit" style="width: 32%;">
-  <img src="https://github.com/user-attachments/assets/d8515ebb-867e-4a0c-ba6c-3530e121957f" alt="Rombel Hapus" style="width: 32%;">
+  <img src="https://github.com/user-attachments/assets/8d6b488c-f6a7-4c98-9cc5-971407728e57" alt="Rombel Tampil" style="width: 24%;">
+  <img src="https://github.com/user-attachments/assets/957db759-7a15-465b-9d35-be6c0e3939ad" alt="Rombel Tambah" style="width: 24%;">
+   <img src="https://github.com/user-attachments/assets/a907811d-6a31-4e6d-aca3-3ff3a50aa2a3" alt="Rombel Edit" style="width: 24%;"/>
+  <img src="https://github.com/user-attachments/assets/d8515ebb-867e-4a0c-ba6c-3530e121957f" alt="Rombel Hapus" style="width: 24%;">
 </div>
 
 ---
